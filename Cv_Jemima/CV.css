@@ -1,0 +1,91 @@
+.page{
+    width: 780px;
+    margin: auto;
+    font-family: "source sans pro", Tahoma, sans-serif;
+    font-size: 16px;
+    border: 4px sandybrown;
+    border-radius: 20px;
+    background-color: beige;
+    padding: 20px;
+}
+
+.infophoto{
+    height: 250px;
+}
+
+.info{
+    float: left;
+    font-size: 20px;
+}
+.photo{
+    float: right;
+}
+
+.section1{
+    margin-bottom: 70px;
+    text-align: justify;
+}
+
+.sec-gauche{
+    float: left;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.sec-droite{
+    margin-left: 165px;
+}
+
+h2{
+    font-size: 28px;
+    color:chocolate;
+    border-bottom: 3px solid chocolate;
+}
+
+.titre{
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+#forma-gauche p{
+    margin-bottom: 40px;
+}
+#lang-droite p{
+    margin-top: 40px;
+}
+
+.autre-cv p{
+    margin-right: 200px; 
+}
+table {
+    border-collapse: collapse;
+  }
+  
+  td {
+    border-style: dashed;
+    border-color:  chocolate;
+    padding: 17px;
+  }
+
+  .rightColumn {
+     width: 20% ;
+     padding-left: 39px;
+
+  }
+  .leftColumn {
+    width: 20px;
+    padding-left: 204px;
+    
+ }
+  .image {
+    border-style: solid;
+    border-width: 2px;
+    border-color: chocolate;
+    border-radius: 50%;
+    width: 80px;
+    height: 75px;
+  }
+  .wrapper {
+    padding-left: 100px;
+  }
